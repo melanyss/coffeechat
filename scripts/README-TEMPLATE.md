@@ -1,3 +1,5 @@
+<!-- Do not modify README.md directly. Check CONTRIBUTING.md for more information. -->
+
 # Coffee Chat
 
 List of awesome people offering their time **for free** to have a "coffee chat" with others about different topics, mostly in a mentorship kind of way.
